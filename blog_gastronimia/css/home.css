@@ -1,0 +1,71 @@
+body{
+  background: url("../img/fondo.jpg") no-repeat fixed center ;
+}
+
+#contenedor{
+/*los 3 primeros valores son el color, RGB, red green blue
+y a es el valor de Alpha
+que es la opacidad
+desde 0 que es totalmente transparente, hasta 1 que es totalmente sólido*/
+  background-color: rgba(0, 0, 100, 0.5);
+}
+/*encabezado de pagina*/
+
+.titulo-pagina{
+  margin: 7px;
+  color: white;
+}
+
+.tip{
+  border-right:  1px solid white;
+}
+.top{
+  border-bottom: 1px solid white;
+}
+
+.slogan{
+  margin: 1rem;
+  color: white;
+}
+
+/*menu y busqueda*/
+.contenido{
+  margin: 1rem;
+}
+ .fe{
+   background: #ccccff;
+   max-height: 50rem;
+ }
+
+ .ta{
+   background:
+ }
+
+ .button{
+   color: white;
+ }
+
+.ti{
+  padding-top: 1rem;
+
+}
+
+.to{
+  padding-top: 1rem;
+}
+
+
+
+/*contenido pricipal*/
+ .fa{
+   background: #ffccff
+ }
+
+ .fi{
+   background: #ffccff;
+   margin-top: 2rem;
+ }
+
+ .fecha{
+   color: red;
+ }
